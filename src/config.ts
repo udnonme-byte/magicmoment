@@ -2,20 +2,20 @@ import { assets } from "$app/paths";
 
 export const config = {
 	mainPage: {
-		heading: "Hello!",
-		invitation: "Will you go on a date with me this week? 👉👈🥺",
-		yesText: "Yes",
-		noText: "No",
+		heading: "Дианочкинс мой любимкинс",
+		invitation: "ты будешь со мной на веки вечные?👉👈🥺",
+		yesText: "да",
+		noText: "нет",
 		topImage: `${assets}/Assets/Top_picture/Cute_pic2.jpg`,
 		leftHeart: `${assets}/Assets/Hearts/heart_3d.gif`,
 		rightHeart: `${assets}/Assets/Hearts/heart_3d.gif`,
 	},
 	noPage: {
-		message: '"No" is not really an option😁',
+		message: '"нет" ваще не варик😁',
 		image: `${assets}/Assets/No_picture/kermit-shooting.gif`,
 	},
 	yesPage: {
-		message: "See you this week 😄",
+		message: "умничка, любики тя❤❤❤😄",
 		image: `${assets}/Assets/Yes_picture/Yes.gif`,
 	},
 };
