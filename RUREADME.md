@@ -31,8 +31,8 @@ import { assets } from "$app/paths";
 
 export const config = {
 	mainPage: {
-		heading: "Привет, Анна",
-		invitation: "Пойдёшь со мной на свидание на этой неделе? 👉👈🥺",
+		heading: "Привет, Дианочкинс мой любмкинс",
+		invitation: "Ты будешь моей на веки вечные? 👉👈🥺",
 		yesText: "Да",
 		noText: "Нет",
 		topImage: `${assets}/Assets/Top_picture/Cute_pic2.jpg`,
@@ -40,11 +40,11 @@ export const config = {
 		rightHeart: `${assets}/Assets/Hearts/heart_3d.gif`,
 	},
 	noPage: {
-		message: '"Нет" – это вообще не вариант😁',
+		message: '"Нет" – это вообще не вариант',
 		image: `${assets}/Assets/No_picture/kermit-shooting.gif`,
 	},
 	yesPage: {
-		message: "Увидимся на этой неделе 😄",
+		message: "Умничка, люблю тебя! ❤😄",
 		image: `${assets}/Assets/Yes_picture/Yes.gif`,
 	},
 };
